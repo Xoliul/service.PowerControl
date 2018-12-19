@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+        <setting label="32002" type="number"   id="alivepin" default="8"/>
+        <setting label="32003" type="number"   id="shutdownpin" default="9"/>
+    </category>
+</settings>
